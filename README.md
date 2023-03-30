@@ -5,3 +5,4 @@ Basic git actions exercise
 - John Sebastian - [jxhnsebastian](https://github.com/jxhnsebastian)
 
 ## Mentees
+Utkarsh Singh(0xAnon)
